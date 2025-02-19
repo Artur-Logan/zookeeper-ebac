@@ -75,7 +75,7 @@ docker-compose up -d
 
 --- 
 
-##📜 Licença
+## 📜 Licença
 
 Este projeto está sob a licença **MIT**. Sinta-se à vontade para usá-lo e melhorá-lo! 😊
 
